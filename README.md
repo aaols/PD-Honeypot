@@ -1,4 +1,4 @@
-The script is configured on Xbuntu to execute on startup and run autonomously.
+The script is configured on windows to execute on startup and run autonomously.
 
 This Python script is created to monitor for drive mounting, logs data, and alerts via email.
 This is triggered upon the drive being mounted. 
